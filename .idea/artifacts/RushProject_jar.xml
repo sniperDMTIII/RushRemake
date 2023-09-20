@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RushProject:jar">
+    <output-path>$PROJECT_DIR$/../../server local/plugins</output-path>
+    <root id="archive" name="RushProject.jar">
+      <element id="module-output" name="RushProject" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

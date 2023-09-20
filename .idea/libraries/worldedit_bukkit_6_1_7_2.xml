@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="worldedit-bukkit-6.1.7.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../server local/plugins/worldedit-bukkit-6.1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+name: RushRemake
+version: '1.1'
+main: org.rushproject.RushRemake
+commands:
+  rush:
+    description: Commande de base du Rush
+
+depend: [PlaceholderAPI]
+
